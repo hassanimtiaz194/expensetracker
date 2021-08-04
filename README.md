@@ -13,8 +13,8 @@
 <p>This App was build using HOOKs:
   <ul>
       <li>useState</li>
-      <li>UseConstext</li>
-      <li>UseReducer</li>
+      <li>useConstext</li>
+      <li>useReducer</li>
     </ul>
 </p>
 <h2>Display<h2>
