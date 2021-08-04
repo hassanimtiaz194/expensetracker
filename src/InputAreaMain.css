@@ -1,0 +1,59 @@
+.InputAreaMainBody{
+  
+    height: 225px;
+    padding: 20px;
+}
+#InputAreaheading{
+    text-align: center;
+}
+.linee2::before {
+    background-color: #fff;
+    content: "";
+    left: 50%;
+    margin: -5px 0 0 -20px;
+    position: absolute;
+    top: 50%;
+    width: 10%;
+    z-index: 1;
+}
+.linee2{
+	margin-top: 18px;
+    display: block;
+    font-size: 1.00em;
+    margin-bottom: 1em;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+
+.linee2::after {
+    border-bottom: 2px solid grey;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 46%;
+    width: 94%;
+    margin-top: -15px;
+    margin-left: 2%;
+    z-index: -2;
+}
+#TDesc{
+    width:380px;
+    border-radius: 5px;
+}
+#TAmount{
+    width:380px;
+    border-radius: 5px;
+}
+.btn{
+    margin-top: 10px;
+    width:380px;
+    border-radius: 5px;
+    background-color: transparent;
+    color:  black;
+}
+#explain{
+    font-size: 14px;
+    margin-left: 90px;
+}

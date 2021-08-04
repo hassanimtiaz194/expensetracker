@@ -1,0 +1,87 @@
+#IEMbody{
+ 
+    height: 200px;
+    padding: 20px;
+    padding-top: 0px;
+}
+h4{
+    text-align: center;
+    padding-top: 10px;
+}
+#balancevalue{
+    margin-top: -15px;
+    margin-left: 5px;
+    font-size: 25px;
+}
+.Income_Expense{
+    background-color: #F8F8F8;
+    border: 3px solid transparent;
+    margin-top: -15px;
+    height: 75px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    padding: 10px;
+}
+.Income{
+   
+    width: 48%;
+    text-align: center;
+    height: 50px;
+}
+.Expense{
+    float: left;
+    
+    width: 49%;
+    margin-left: 180px;
+    margin-top: -68px;
+    text-align: center;
+    height: 50px;
+}
+#Icolor{
+color: #0eb5a3;
+}
+#Ecolor{
+color: tomato;
+}
+.linee::before {
+    background-color: #fff;
+    content: "";
+    left: 50%;
+    margin: -5px 0 0 -20px;
+    position: absolute;
+    top: 50%;
+    width: 10%;
+    z-index: 1;
+}
+.linee{
+	margin-top: 18px;
+    display: block;
+    font-size: 1.00em;
+    margin-bottom: 1em;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+
+.linee::after {
+    transform: rotate(90deg);
+    border-bottom: 2px solid lightgray;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 46%;
+    width: 18%;
+    margin-top: -45px;
+    margin-left: 142.5px;
+    z-index: -2;
+}
+.TitleHeading{
+    background-color: #0eb5a3;
+    margin-left: -33px;
+    width:450px;
+    color: white;
+    height: 50px;
+    margin-top: -15px;
+    border-radius: 5px 5px 0px 0px;
+}
