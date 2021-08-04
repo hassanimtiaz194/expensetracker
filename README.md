@@ -15,7 +15,6 @@
       <li>useState</li>
       <li>UseConstext</li>
       <li>UseReducer</li>
-      <li>Bootstrap</li>
     </ul>
 </p>
 <h2>Display<h2>
