@@ -10,4 +10,4 @@
     </ul>
 </ul>
 <h2>Display<h2>
-  <img src="https://github.com/hassanimtiaz194/expensetracker/blob/main/ExpenseTracker.png" alt="Expense Tracker Display" width="900" height="600">
+  <img src="https://github.com/hassanimtiaz194/expensetracker/blob/main/ExpenseTracker.png" alt="Expense Tracker Display" width="1000" height="600">
