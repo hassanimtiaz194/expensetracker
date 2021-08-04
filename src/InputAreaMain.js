@@ -25,6 +25,8 @@ let { transaction, addTransaction } = useContext(transactioncontext);
                 }
                // document.getElementById("mainn").reset(); 
                // document.mainn.reset();
+               document.getElementById('TDesc').value='';
+               document.getElementById('TAmount').value='';
             }}>
                 <h5 id="InputAreaheading">Add New Transaction</h5>
                 <strong className="linee2"></strong> 
